@@ -5,7 +5,7 @@
 | ---            | ---        | ----------|---                |
 | Rayssa Ravelia | 5025211219 |PWEB A     | 2022/2023 (Genap) |
 
-Link deploy : [deploy](https://login-regist.vercel.app/)
+Link deploy : [deploy](bootstrap-o1av775eg-rayrednet.vercel.app)
 
 ## Tugas Landing Page dengan Bootstrap
 Website landing page dengan bootstrap yang dibuat merupakan tugas untuk mata kuliah Pemrograman Web yang dimana merupakan website fiktif untuk mempelajari framework Bootstrap dalam HTML.
